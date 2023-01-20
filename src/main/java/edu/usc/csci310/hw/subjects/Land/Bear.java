@@ -6,7 +6,7 @@ public class Bear implements Animal {
 
 	public void makeNoise() {
 		// TODO Auto-generated method stub
-
+		System.out.println("BEARRRRRRR");
 	}
 
 	public void move() {
