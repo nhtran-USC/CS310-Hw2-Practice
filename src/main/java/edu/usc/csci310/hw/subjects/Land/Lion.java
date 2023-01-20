@@ -11,7 +11,7 @@ public class Lion implements Animal {
 
 	public void move() {
 		// TODO Auto-generated method stub
-
+		System.out.println("moving");
 	}
 
 	public void eat() {
