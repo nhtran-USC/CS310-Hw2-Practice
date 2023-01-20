@@ -6,7 +6,7 @@ public class Lion implements Animal {
 
 	public void makeNoise() {
 		// TODO Auto-generated method stub
-
+		System.out.println("moving");
 	}
 
 	public void move() {
